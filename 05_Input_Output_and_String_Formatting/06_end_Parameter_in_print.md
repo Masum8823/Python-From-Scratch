@@ -942,4 +942,4 @@ Masum!Masum
 - [ ] Loop ব্যবহার করে একই লাইনে sequence print করতে পারি।
 - [ ] Output দেখে অতিরিক্ত separator-এর কারণ শনাক্ত করতে পারি।
 
-**Next Topic:** `07_Newlines_and_Escape_Sequences.md` — এখানে `\n`, `\t`, `\\`, `\"` এবং অন্যান্য escape sequence শিখব, যেগুলো দিয়ে string-এর মধ্যে নতুন লাইন, tab ও special character দেখানো যায়।
+**Next Topic:** `07_Newlines_and_Escape_Sequences.md` — এখানে `\n`, `\t`, `\\`, `\"` এবং অন্যান্য escape sequence শিখব, যেগুলো দিয়ে string-এর মধ্যে নতুন লাইন, tab ও special character দেখানো যায়।s
